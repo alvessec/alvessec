@@ -1,6 +1,6 @@
 <h1>William Alves | Cybersecurity Student</h1>
 
-🧠 About Me
+## 🧠 About Me
 
 I'm focused on building a career in cybersecurity, with a strong foundation in networking and security concepts.
 

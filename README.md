@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1>William Alves | Cybersecurity Student</h1>
 
-<!--
-**alvessec/alvessec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
 
-Here are some ideas to get you started:
+I'm focused on building a career in cybersecurity, with a strong foundation in networking and security concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience with practical labs and security scenarios, focusing on understanding how systems communicate and how vulnerabilities can arise.
+
+---
+
+## 👨‍💻 Experience
+
+### Technical Experience – Black Infocell
+- 5 years working with mobile devices
+- Software troubleshooting and device configuration
+- Basic network configuration and connectivity troubleshooting
+
+### Digital Media & Design
+- 4 years as a social media designer for multiple brands
+- Experience managing digital platforms and content
+
+### Entrepreneurial Experience
+- Founded and managed an independent online clothing brand
+- Developed brand identity and managed online sales
+
+---
+🎓 Certifications
+
+- Google Cybersecurity Professional Certificate *(in progress)*
+
+---
+
+<h2>📝 Cybersecurity Projects</h2>
+
+- [📄Security Audit Project](./SecurityAuditProject.md) -
+  Conducted a security audit based on NIST principles, identified risks related to access control, encryption, and compliance, provided structured recommendations to improve security posture.
+
+---
+
+<h2> 🤝 Connect with me</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/william-alves-910848236/)
+- [Github](https://github.com/alveswill1/alvessec)

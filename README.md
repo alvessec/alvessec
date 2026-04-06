@@ -32,8 +32,12 @@ I have hands-on experience with practical labs and security scenarios, focusing 
 
 <h2>📝 Cybersecurity Projects</h2>
 
-- [📄Security Audit Project](./SecurityAuditProject.md) -
-  Conducted a security audit based on NIST principles, identified risks related to access control, encryption, and compliance, provided structured recommendations to improve security posture.
+- [📄Security Audit Project](./SecurityAuditProject.md)
+Conducted a security audit based on NIST principles, identified risks related to access control, encryption, and compliance, provided structured recommendations to improve security posture.
+
+- [🛡️Linux File Permission Hardening Lab](https://github.com/alvessec/file-permissions-project))
+Hands-on project demonstrating file permission management, access control, and security hardening in Linux. Focusing in Least Privilege and Access Control.
+
 
 ---
 
